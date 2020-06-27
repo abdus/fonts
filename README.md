@@ -22,7 +22,7 @@ body {
 #### Charter
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts/charter/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/charter/index.min.css">
 ```
 
 ```css
@@ -34,11 +34,23 @@ body {
 #### Dosis
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts/dosis/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/dosis/index.min.css">
 ```
 
 ```css
 body {
   font-family: 'Dosis';
+}
+```
+
+#### Titillium
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/titillium/index.min.css">
+```
+
+```css
+body {
+  font-family: Titillium;
 }
 ```
