@@ -1,8 +1,35 @@
 @font-face {
   font-family: Titillium;
-  src: url("./Titillium-thin.ttf"), url("./Titillium-thin-italic.ttf"),
-    url("./Titillium-light.ttf"), url("./Titillium-italic.ttf"), url("./Titillium-light-italic.ttf"),
-    url("./Titillium.ttf"), url("./Titillium-semi-bold.ttf"),
-    url("./Titillium-semi-bold-italic.ttf"), url("./Titillium-bold.ttf"),
-    url("./Titillium-bold-italic.ttf"), url("./Titillium-black.ttf");
+  font-weight: 200;
+  src: url("./Titillium-thin.ttf"), url("./Titillium-thin-italic.ttf");
+}
+
+@font-face {
+  font-family: Titillium;
+  font-weight: 300;
+  src: url("./Titillium-light.ttf"), url("./Titillium-light-italic.ttf");
+}
+
+@font-face {
+  font-family: Titillium;
+  font-weight: 400;
+  src: url("./Titillium.ttf"), url("./Titillium-italic.ttf");
+}
+
+@font-face {
+  font-family: Titillium;
+  font-weight: 600;
+  src: url("./Titillium-semi-bold.ttf"), url("./Titillium-semi-bold-italic.ttf");
+}
+
+@font-face {
+  font-family: Titillium;
+  font-weight: 700;
+  src: url("./Titillium-bold.ttf"), url("./Titillium-bold-italic.ttf");
+}
+
+@font-face {
+  font-family: Titillium;
+  font-weight: 900;
+  src: url("./Titillium-black.ttf");
 }
