@@ -1,1 +1,6 @@
-
+@font-face {
+  font-family: Dosis;
+  src: url("./DosisLight.ttf"), url("./DosisBook.ttf"),
+       url("./DosisMedium.ttf"), url("./DosisSemibold.ttf"),
+       url("./DosisBold.ttf");
+ }
