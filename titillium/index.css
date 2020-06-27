@@ -1,9 +1,8 @@
 @font-face {
   font-family: Titillium;
   src: url("./Titillium-thin.ttf"), url("./Titillium-thin-italic.ttf"),
-    url("./Titillium-light.ttf"), url("./Titillium-light-italic.ttf"),
+    url("./Titillium-light.ttf"), url("./Titillium-italic.ttf"), url("./Titillium-light-italic.ttf"),
     url("./Titillium.ttf"), url("./Titillium-semi-bold.ttf"),
     url("./Titillium-semi-bold-italic.ttf"), url("./Titillium-bold.ttf"),
-    url("./Titillium-bold-italic.ttf"), url("./Titillium-black.ttf"),
-    url("./Titillium-italic.ttf");
+    url("./Titillium-bold-italic.ttf"), url("./Titillium-black.ttf");
 }
