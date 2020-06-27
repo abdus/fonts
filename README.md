@@ -27,7 +27,7 @@ body {
 
 ```css
 body {
-  font-family: 'Charter';
+  font-family: "Charter", sans-serif;
 }
 ```
 
@@ -39,7 +39,7 @@ body {
 
 ```css
 body {
-  font-family: 'Dosis';
+  font-family: "Dosis", sans-serif;
 }
 ```
 
@@ -51,6 +51,18 @@ body {
 
 ```css
 body {
-  font-family: Titillium;
+  font-family: "Titillium", sans-serif;
+}
+```
+
+#### BebasNeue
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/bebas-neue/index.min.css">
+```
+
+```css
+body {
+  font-family: "BebasNeue", sans-serif;
 }
 ```
