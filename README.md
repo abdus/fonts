@@ -1,6 +1,6 @@
 # fonts
 
-[![](https://data.jsdelivr.com/v1/package/gh/thisisabdus/fonts/badge)](https://www.jsdelivr.com/package/gh/thisisabdus/fonts)
+[![](https://data.jsdelivr.com/v1/package/gh/thisisabdus/fonts/badge?style=rounded)](https://www.jsdelivr.com/package/gh/thisisabdus/fonts)
 
 A repository containing font files along with appropriate CSS files for easily including it in any web-based projects through
 [jsDelivr](https://jsdelivr.com) CDN. All fonts which are listed here, does have a permissible license for public and personal use.
