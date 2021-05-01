@@ -1,6 +1,6 @@
 # Fonts
 
-[![](https://data.jsdelivr.com/v1/package/gh/thisisabdus/fonts/badge?style=rounded)](https://www.jsdelivr.com/package/gh/thisisabdus/fonts)
+[![](https://data.jsdelivr.com/v1/package/gh/abdus/fonts/badge?style=rounded)](https://www.jsdelivr.com/package/gh/abdus/fonts)
 
 A repository containing font files along with appropriate CSS files for easily including it in any web-based projects through
 [jsDelivr](https://jsdelivr.com) CDN. All fonts which are listed here, does have a permissible license for public and personal use.
@@ -8,7 +8,7 @@ A repository containing font files along with appropriate CSS files for easily i
 ## Usage
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts/charter/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/abdus/fonts/charter/index.min.css">
 ```
 
 ```css
@@ -22,7 +22,7 @@ body {
 #### Charter
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/charter/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/abdus/fonts@master/charter/index.min.css">
 ```
 
 ```css
@@ -34,7 +34,7 @@ body {
 #### Dosis
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/dosis/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/abdus/fonts@master/dosis/index.min.css">
 ```
 
 ```css
@@ -46,7 +46,7 @@ body {
 #### Titillium
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/titillium/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/abdus/fonts@master/titillium/index.min.css">
 ```
 
 ```css
@@ -58,7 +58,7 @@ body {
 #### BebasNeue
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/bebas-neue/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/abdus/fonts@master/bebas-neue/index.min.css">
 ```
 
 ```css
