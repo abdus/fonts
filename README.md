@@ -67,7 +67,7 @@ body {
 }
 ```
 
-#### BebasNeue
+#### This Sucks
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/this-sucks/index.min.css">
