@@ -66,3 +66,15 @@ body {
   font-family: "BebasNeue", sans-serif;
 }
 ```
+
+#### BebasNeue
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/this-sucks/index.min.css">
+```
+
+```css
+body {
+  font-family: "This Sucks", sans-serif;
+}
+```

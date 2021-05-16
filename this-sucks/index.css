@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'This Sucks';
+    src: url('This-Sucks.woff2') format('woff2'),
+        url('This-Sucks.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
