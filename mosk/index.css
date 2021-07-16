@@ -1,0 +1,8 @@
+@font-face {
+  font-family: Mosk;
+  src: url("./mosk-thin-100.ttf"), url("./mosk-extra-light-200.ttf"),
+       url("./mosk-light-300.ttf"), url("./mosk-normal-400.ttf"),
+       url("./mosk-medium-500.ttf"), url("./mosk-semi-bold-600.ttf"),
+       url("./mosk-bold-700.ttf"), url("./mosk-extra-bold-800.ttf"),
+       url("./mosk-ultra-bold-900.ttf");
+ }

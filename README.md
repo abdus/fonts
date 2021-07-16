@@ -78,3 +78,15 @@ body {
   font-family: "This Sucks", sans-serif;
 }
 ```
+
+#### Mosk
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/mosk/index.min.css">
+```
+
+```css
+body {
+  font-family: "Mosk", sans-serif;
+}
+```
