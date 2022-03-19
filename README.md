@@ -90,3 +90,15 @@ body {
   font-family: "Mosk", sans-serif;
 }
 ```
+
+#### ProductSans
+
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/product-sans/index.min.css">
+```
+
+```css
+body {
+  font-family: "ProductSans", sans-serif;
+}
+```
