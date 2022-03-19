@@ -1,5 +1,5 @@
 @font-face {
   font-family: ProductSans;
-  src: url("./product-sans-bold-italic.ttf"), url("./product-sans-bold.ttf"),
-       url("./product-sans-regular.ttf"), url("./product-sans-italic.ttf");
- }
+  src: url("./product-sans-regular.ttf"), url("./product-sans-bold.ttf"),
+    url("./product-sans-italic.ttf"), url("./product-sans-bold-italic.ttf");
+}
