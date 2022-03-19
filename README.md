@@ -94,7 +94,7 @@ body {
 #### ProductSans
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/product-sans/index.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thisisabdus/fonts@master/product-sans-serif/index.min.css">
 ```
 
 ```css
